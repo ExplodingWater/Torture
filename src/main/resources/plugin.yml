@@ -1,6 +1,6 @@
-name: TortureWatcher
+name: Torture
 version: 1.0
-main: me.server.torturewatcher.TortureWatcher
+main: me.server.torturewatcher.Torture
 api-version: 1.21
 softdepend: [AuthMe]
 commands:

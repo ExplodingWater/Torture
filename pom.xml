@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.server</groupId>
-    <artifactId>torturewatcher</artifactId>
+    <artifactId>Torture</artifactId>
     <version>1.0</version>
 
     <properties>
