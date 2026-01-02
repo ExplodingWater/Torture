@@ -1,9 +1,9 @@
 name: Torture
-version: 1.0
+version: 1.0.1
 main: me.server.torturewatcher.Torture
 api-version: 1.21
 softdepend: [AuthMe]
 commands:
   torture:
     description: Toggle torture for a player
-    permission: torture.admin
+    usage: /torture <player> <true|false>
