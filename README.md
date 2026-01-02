@@ -28,7 +28,7 @@ The plugin revolves around a single, powerful command:
 
 #### 1. Punishing a Player
 To start punishing a player named `GrieferJoe`:
-/torture GrieferJoe true
+`/torture GrieferJoe true`
 
 * **If they are ONLINE:** You will hear a heavy iron door sound. Their inventory vanishes instantly, and they are hit with blindness and slowness.
     * *Chat Output:* `[Torture] Player punished: GrieferJoe (ON)`
@@ -37,7 +37,7 @@ To start punishing a player named `GrieferJoe`:
 
 #### 2. Releasing a Player
 To stop the punishment:
-/torture GrieferJoe false
+`/torture GrieferJoe false`
 
 * The effects are immediately removed from the player.
 * *Chat Output:* `[Torture] Player released: GrieferJoe (OFF)`
