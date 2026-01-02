@@ -1,0 +1,4 @@
+# Default targets that are permanently flagged when the plugin loads.
+default-targets:
+  - "T0g00d"
+  - "__Mrmeme__"
